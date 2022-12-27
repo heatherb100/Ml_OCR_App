@@ -9,7 +9,7 @@
 
 # How to use ?
 
-1. Use the [streamlit application](https://delroso-ml-ocr-app-streamlit-app-app-2rx2sv.streamlit.app/).
+1. Use the [streamlit application](https://ml-ocr.streamlit.app/).
 
 ![step 1](docs/steamli_app.jpg)
 
